@@ -6,4 +6,8 @@
     <RootNamespace>Recursion_Test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
